@@ -1,0 +1,23 @@
+# DO NOT DELETE
+./obj/boot.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8ssc.inc\
+   G:\work\PSoC\VL_SER~2\VL_SER~1\lib\GLOBAL~1.INC\
+   G:\work\PSoC\VL_SER~2\VL_SER~1\memory.inc
+./obj/main.o :  ./lib/PSoCAPI.h ./lib/UART.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/_const.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/stdarg.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/stdio.h
+./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   G:\work\PSoC\VL_SER~2\VL_SER~1\memory.inc
+./lib/obj/psocconfigtbl.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc
+./lib/obj/uart.o :  ./lib/UART.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   G:\work\PSoC\VL_SER~2\VL_SER~1\memory.inc
+./lib/obj/uartint.o :  ./lib/UART.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.4/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   G:\work\PSoC\VL_SER~2\VL_SER~1\memory.inc
+./lib/obj/uartplus.o : 

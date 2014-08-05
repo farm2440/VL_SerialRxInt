@@ -1,0 +1,38 @@
+Starting MAKE...
+creating project.mk 
+
+lib/psocconfig.asm
+
+lib/psocconfigtbl.asm
+
+lib/uart.asm
+
+lib/uartint.asm
+
+lib/uartplus.asm
+
+./boot.asm
+
+Linking..
+
+LMM info: area 'data' item of 25 bytes allocated in SRAM page 0
+
+LMM info: area 'virtual_registers' uses 15 bytes in SRAM page 0
+
+LMM info: area 'data' item of 2 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 1 bytes allocated in SRAM page 0
+
+LMM info: area 'data' item of 1 bytes allocated in SRAM page 0
+
+idata dump at output/VL_SerialRxInt.idata
+
+  ROM 14% full. 4283 out of 32768 bytes used (does not include absolute areas).
+
+  RAM 3% full. 44 bytes used (does not include stack usage).
+
+Built with ICCM8C STD V7.05.00
+
+ 
+VL_SerialRxInt - 0 error(s) 0 warning(s) 12:49:59
+
